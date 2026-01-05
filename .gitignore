@@ -1,0 +1,13 @@
+# Mengabaikan node_modules di kedua folder
+backend/node_modules/
+frontend/node_modules/
+
+# Mengabaikan file environment/rahasia
+backend/.env
+frontend/.env
+
+# Mengabaikan folder hasil build frontend
+frontend/build/
+
+# Mengabaikan file sistem Mac
+.DS_Store
